@@ -1,10 +1,10 @@
 /*
  * This work is licensed under CC BY-NC-SA 4.0
  * (https://creativecommons.org/licenses/by-nc-sa/4.0/).
- * Copyright (c) 2024 Boyang Zhou
+ * Copyright (c) 2025 Boyang Zhou
  *
- * This file is a part of "Resilient Subpath-Based NDN Transport Protocol (RNTP) for Ad-Hoc Stationary Wireless Sensor Networks"
- * (https://github.com/zhouby-zjl/drtp/).
+ * This file is a part of "Reliable Subpath-Aware Transport Control Protocol (SART) for Wireless Multihop Networks"
+ * (https://github.com/zhouby-zjl/sart/).
  * Written by Boyang Zhou (zhouby@zhejianglab.com / zby_zju@163.com)
  *
  */
